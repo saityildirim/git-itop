@@ -1,3 +1,4 @@
 merhaba git-1 dersi
 hello world
 git commit -am komutu kullanımı
+cached komutu
